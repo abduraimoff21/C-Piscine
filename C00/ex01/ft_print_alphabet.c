@@ -23,9 +23,8 @@ void	ft_print_alphabet(void)
 		x++;
 	}
 }
-/*
+
 int	main(void)
 {
 	ft_print_alphabet();
 }
-*/
