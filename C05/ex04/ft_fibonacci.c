@@ -36,10 +36,9 @@ int	ft_fibonacci(int index)
 		return (-1);
 	}
 }
-/*
+
 int main()
 {
 	printf("%d", ft_fibonacci(9));
 
 }
-*/
