@@ -23,7 +23,6 @@ char	*ft_strcpy(char *dest, char *src)
 	dest[count] = '\0';
 	return (dest);
 }
-/*
 int main()
 {
 	char dest[] = "ab";
@@ -32,4 +31,3 @@ int main()
 	printf("%s",dest);
 	return (0);
 }
-*/
