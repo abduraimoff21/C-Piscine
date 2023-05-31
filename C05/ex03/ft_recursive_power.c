@@ -24,7 +24,8 @@ int	ft_recursive_power(int nb, int power)
 		return (nb * ft_recursive_power(nb, power - 1));
 	}
 }
-/* int main()
+
+int main()
 {
 	printf("%d", ft_recursive_power(2,4));
-} */
+}
