@@ -32,11 +32,12 @@ int	ft_is_prime(int nb)
 	}
 	return (1);
 }
-/*int		main(void)
+
+int	main(void)
 {
 	int nb;
 
 	nb = 2147483646;
 	printf("%i\n", ft_is_prime(nb));
 	return (0);
-}*/
+}
