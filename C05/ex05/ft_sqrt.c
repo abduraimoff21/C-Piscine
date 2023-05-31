@@ -25,9 +25,8 @@ int	ft_sqrt(int nb)
 	}
 	return (0);
 }
-/*
+
  int main()
  {
  	printf("%d", 	ft_sqrt(1000));
  }
- */
