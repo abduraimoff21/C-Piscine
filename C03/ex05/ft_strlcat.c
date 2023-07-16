@@ -41,7 +41,7 @@ unsigned int	ft_strlcat(char *dest, char *src, unsigned int size)
 	dest[dest_len] = '\0';
 	return (dest_len + ft_strlen(&src[index]));
 }
-/*
+
 int main(void)
 {
  	char s2[30] = "m";
@@ -51,4 +51,3 @@ int main(void)
  	printf("c  : (%lu) $%s$\n", strlcat(s3, s1, a), s3);
     printf("ft : (%d) $%s$\n", ft_strlcat(s2, s1, a), s2);
 }
-*/
