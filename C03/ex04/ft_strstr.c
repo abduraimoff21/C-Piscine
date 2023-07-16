@@ -34,7 +34,7 @@ char	*ft_strstr(char *str, char *to_find)
 	}
 	return (0);
 }
-/*
+
 int main ()
 {
      char haystack[20] = "TutorialsPointfklj";
@@ -42,4 +42,3 @@ int main ()
     printf("The substring is: %s\n", ft_strstr(haystack, needle));
     return(0);
 }
-*/
