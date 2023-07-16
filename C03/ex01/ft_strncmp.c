@@ -28,7 +28,7 @@ int	ft_strncmp(char *s1, char *s2, unsigned int n)
 	}
 	return (0);
 }
-/*
+
 int main(void)
 {
  	char *s1;
@@ -40,4 +40,3 @@ int main(void)
  	int result = ft_strncmp(s1, s2, n);
  	printf("%d", result);
 }
-*/
